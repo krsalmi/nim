@@ -1,5 +1,5 @@
 # nim
-<img src="[https://your-image-url.type](https://github.com/krsalmi/nim/assets/57495339/b9b63ae4-558b-4970-b701-1e707578cd0e)" width="100" height="100">
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNim&psig=AOvVaw0IMTolrcaf40Lu5EQZwy3Z&ust=1689936720978000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjEpoGPnYADFQAAAAAdAAAAABAE](https://github.com/krsalmi/nim/assets/57495339/b9b63ae4-558b-4970-b701-1e707578cd0e)" width="100" height="100">
 
 Nim is a two-player mathematical game of strategy where players take turns removing objects from distinct heaps or piles.
 On each turn, a player must remove at least one object, and may remove any number of objects provided they all come 
